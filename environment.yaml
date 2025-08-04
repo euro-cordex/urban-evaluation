@@ -22,6 +22,8 @@ dependencies:
   - seaborn
   - plotnine
   - pip
+  - icecream
+  - scikit-image
   - pip:
     - git+https://github.com/euro-cordex/evaltools
     - git+https://github.com/euro-cordex/py-cordex
