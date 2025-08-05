@@ -10,6 +10,11 @@ There is also a repository ([evaltools](https://github.com/euro-cordex/evaltools
 
 Details on data exchange and available datasets is available from the ([joint evaluation github landing page](https://github.com/euro-cordex/joint-evaluation)). Data storage and analysis is on the jsc-cordex data exchange infrastructure at ([JSC](https://github.com/euro-cordex/jsc-cordex)).
 
+## Minutes meetings
+- Google doc: https://docs.google.com/document/d/1_G4nNC8WXsvvzmxs1IpfvUaxC8Mi1pGNMrdPX7Y56gU/edit?usp=sharing
+- Contribute with observations: https://docs.google.com/spreadsheets/d/1LWeazdv8FGku264T9mrbzr1fRR3E8E9CtA9CccYZMTQ/edit?gid=0#gid=0
+
 
 
 ## Preparing a working environment
+bla bla bla
